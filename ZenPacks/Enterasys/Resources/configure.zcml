@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configure xmlns="http://namespaces.zope.org/zope">
+
+    <adapter
+        provides=".interfaces.IEtsysCPUInfo"
+        for=".EtsysCPU.EtsysCPU"
+        factory=".info.EtsysCPUInfo"
+        />
+		
+	<adapter
+        provides=".interfaces.IEtsysStorageInfo"
+        for=".EtsysStorage.EtsysStorage"
+        factory=".info.EtsysStorageInfo"
+        />
+		
+	<adapter
+        provides=".interfaces.IEtsysProcessInfo"
+        for=".EtsysProcess.EtsysProcess"
+        factory=".info.EtsysProcessInfo"
+        />
+
+    <include package=".browser"/>
+
+</configure>
