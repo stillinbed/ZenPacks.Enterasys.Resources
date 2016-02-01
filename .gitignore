@@ -46,6 +46,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+#Zenoss specific files that can safely be ignored during commit
 *.pyc
 *.pyo
 .svn
