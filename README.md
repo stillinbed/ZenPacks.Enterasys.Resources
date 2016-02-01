@@ -1,5 +1,5 @@
 # ZenPacks.Enterasys.Resources
-Monitor the main hardware components (CPUs, Storage Units, Processes) of all the Enterasys switches which support ENTERASYS-RESOURCE-UTILIZATION-MIB. 
+Monitor the main hardware components (CPUs, Storage Units, Processes) of Enterasys switches which support ENTERASYS-RESOURCE-UTILIZATION-MIB. 
 
 What it provides:
 - Modeling of CPUs, Storage Units and Processes
