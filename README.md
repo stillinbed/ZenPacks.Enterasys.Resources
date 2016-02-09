@@ -6,6 +6,6 @@ This zenpack provides:
 - Performance monitoring of CPU Utilization, Storage Utilization and CPU Utilization per running process
 - Threshold crossing alarms for CPU and Storage Utilization
 
-The following screenshot depicts storage units modelling for an Enterasys N7 switch in Zenoss
+The following screenshot depicts component modelling and performance monitoring for the storage units of an Enterasys N7 switch in Zenoss:
 
 ![alt tag](/screenshots/enterasys_component_modelling.png)
