@@ -8,4 +8,4 @@ This zenpack provides:
 
 The following screenshot depicts storage units modelling for an Enterasys N7 switch in Zenoss
 
-![alt tag](http://url/to/img.png)
+![alt tag](/screenshots/enterasys_component_modelling.png)
