@@ -3,7 +3,7 @@ Monitor the main hardware components (CPUs, Storage Units, Processes) of Enteras
 
 This zenpack provides:
 - Modeling of CPUs, Storage Units and Processes
-- Performance monitoring of CPU Utilization (total as well as per running process), Storage Utilization
+- Performance monitoring of CPU Utilization (total as well as per running process) and Storage Utilization
 - Threshold crossing alarms for CPU and Storage Utilization
 
 The following screenshot depicts component modelling and performance monitoring for the storage units of an Enterasys Matrix N7 switch in Zenoss:
